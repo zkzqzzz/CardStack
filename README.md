@@ -9,10 +9,12 @@ allprojects {
       repositories {
 	maven { url 'https://jitpack.io' }
 	}
+	
 }				
 Step 2. Add the dependency
 
 dependencies {
 
-   compile 'com.github.zkzqzzz:cardstack:1.0.0'
+     compile 'com.github.zkzqzzz:cardstack:1.0.0'
+
 }
